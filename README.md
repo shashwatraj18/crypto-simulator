@@ -26,15 +26,15 @@ A web-based crypto price simulator that allows users to compare live cryptocurre
 ---
 
 ## 📂 Project Structure (Planned)
-
-crypto-simulator/
-├── public/
-├── src/
-│ ├── components/ # UI elements
-│ ├── pages/ # Page views
-│ ├── hooks/ # Custom React hooks
-│ ├── services/ # API and Firebase logic
-│ └── App.jsx
-├── .env
-├── package.json
-└── README.md
+<br>
+crypto-simulator/<br>
+├── public/ <br>
+├── src/<br>
+│ ├── components/ # UI elements<br>
+│ ├── pages/ # Page views<br>
+│ ├── hooks/ # Custom React hooks<br>
+│ ├── services/ # API and Firebase logic<br>
+│ └── App.jsx<br>
+├── .env<br>
+├── package.json<br>
+└── README.md<br>
